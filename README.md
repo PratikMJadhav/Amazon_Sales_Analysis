@@ -98,7 +98,8 @@ Maharashtra (₹12M)
 Karnataka (₹10M)
 UP, Telangana, Tamil Nadu (₹6M each)
 
-##Dashboard :
+## Dashboard :
+
 <a
 href="https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_01.jpg" >Dashboard_01
 </a
