@@ -7,7 +7,9 @@ Track and analyze revenue, quantity, fulfillment, category trends, and geographi
 
 ## Dataset :
 <a
-"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon%20Sale%20Report.csv ">Dataset</a
+
+"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon%20Sale%20Report.csv"
+>Dataset</a
 
 
 ## Overview:
@@ -100,9 +102,13 @@ UP, Telangana, Tamil Nadu (₹6M each)
 
 ##Dashboard :
 <a
-"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_01.jpg" >Dashboard</a
+
+"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_01.jpg" >Dashboard_01
+</a
 <a
-"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_02.jpg" >Dashboard</a
+
+"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_02.jpg" >Dashboard_02
+</a
 
 
 Top Revenue Cities:
