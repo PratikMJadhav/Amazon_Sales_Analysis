@@ -1,16 +1,14 @@
 
-# 📊 Project Objective: Amazon_Sales ( Dashboard creation with using Powerbi)
+# 📊 Project Objective: Amazon_Sales  (Dashboard creation with using Powerbi)
 
 
 ## 🎯 Objective:
 Track and analyze revenue, quantity, fulfillment, category trends, and geographical distribution for fashion and apparel products on Amazon.
 
+
 ## Dataset :
 <a
-
-"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon%20Sale%20Report.csv"
->Dataset</a
-
+href="https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon%20Sale%20Report.csv ">Dataset</a
 
 ## Overview:
 This dashboard presents a comprehensive performance analysis of Amazon fashion sales, with a focus on category performance, fulfillment methods, shipping preferences, and geographic revenue distribution. The dataset covers 120K orders contributing to ₹73.3M in total revenue.
@@ -102,12 +100,11 @@ UP, Telangana, Tamil Nadu (₹6M each)
 
 ##Dashboard :
 <a
-
-"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_01.jpg" >Dashboard_01
+href="https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_01.jpg" >Dashboard_01
 </a
-<a
 
-"https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_02.jpg" >Dashboard_02
+<a
+href="https://github.com/PratikMJadhav/Amazon_Sales_Analysis/blob/main/Amazon_Sales_Dashboard_02.jpg" >Dashboard_02
 </a
 
 
